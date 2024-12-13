@@ -6,7 +6,6 @@
     <link rel="stylesheet" href="style.css">
     <title>Selina Jing's CC Portfolio</title>    
     <style>
-        /* Remove underline and hover effects for links */
         a {
             text-decoration: none;
             color: inherit;
@@ -27,13 +26,13 @@
         }
 
         .column h2 a:hover {
-            color: rgb(244, 143, 168); /* Keep color consistent on hover */
+            color: rgb(244, 143, 168); 
         }
 
-        /* Image grid */
+       
         .image-grid {
             display: grid;
-            grid-template-columns: repeat(3, 1fr); /* 3 images per row */
+            grid-template-columns: repeat(3, 1fr); 
             gap: 20px;
             padding: 20px;
             margin: 30px auto;
@@ -42,9 +41,9 @@
 
         .image-grid img {
             width: 100%;
-            height: auto; /* Maintain original proportions */
+            height: auto; 
             border-radius: 10px;
-            cursor: pointer; /* Change cursor to pointer for interaction */
+            cursor: pointer; 
             transition: transform 0.3s ease, z-index 0.3s;
         }
 
@@ -53,18 +52,14 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    z-index: 100; /* Ensure it appears above all other elements */
-    border-radius: 10px; /* Keep small rounded corners */
-    max-width: 90vw; /* Fit within 90% of the viewport width */
-    max-height: 90vh; /* Fit within 90% of the viewport height */
-    width: auto; /* Maintain original aspect ratio */
-    height: auto; /* Maintain original aspect ratio */
+    z-index: 100; 
+    border-radius: 10px; 
+    max-width: 90vw; 
+    max-height: 90vh; 
+    width: auto; 
+    height: auto; 
 }
 
-
-
-
-        /* Prevent grid reflow during enlargement */
         .image-grid img:not(.enlarged) {
             z-index: 1;
         }
@@ -106,8 +101,8 @@
     <footer>
         <p>©️ All rights reserved 2024</p>
     </footer>
+    
     <script>
-        // Toggle enlarge/shrink image
         function toggleEnlarge(img) {
             img.classList.toggle("enlarged");
         }
