@@ -1,0 +1,5 @@
+Your design process. Include your design sketches.
+I first used my sketch to draw the rabbit, starting with simple shapes like ellipses for the ears, head, eyes, and nose, and using vertex() and bezierVertex() to draw the mouth. Then, I made the rabbit's size change based on the mouseXY when at different horizontal and vertical positions. Using mousePressed(), both the rabbit and the background randomly change colors and i set the color range into a more fresh tone. Finally, I decided to add an interactive background, making the dots move and shift colors every time the mouse press.
+
+What have you discovered about the form you've chosen through this assignment?
+I’ve learned that using simple shapes and adding interaction can make a surprisingly fun experience. By using mousePressed(), I made the rabbit and background change color and size whenever the mouse is clicked or moved. These simple interactions make the sketch feel more dynamic and playful. I realized that creating engaging user interaction doesn’t need to be complicated, only basic shapes and easy interactivity can still be fun and interesting to look at.

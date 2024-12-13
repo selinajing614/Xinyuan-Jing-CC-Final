@@ -1,0 +1,18 @@
+Proposal
+Game:Grown  
+Grown is a survival game where players play as a resilient spider through a series of challenging stages, each representing an obstacle on the journey to thriving. The spider must dodge hazards, navigate obstacles, and collect resources, representing the journey of overcoming difficulties to grow stronger. Each level introduces new mechanics, demanding the player's skill, strategy, and quick thinking to succeed.
+
+Stage 1: Dodging Poison  
+In the first stage, poisonous droplets fall randomly from the top of the screen. The player must use the left and right arrow keys to move the spider horizontally, avoiding the toxic drops for 15 seconds.
+
+Stage 2: Jumping Obstacles
+In the second stage, the spider encounters a series of obstacles in its path. The player can press the space bar to make the spider jump, timing each jump carefully to avoid losing lives. The player must navigate the spider safely over all obstacles, managing the limited three lives throughout this challenging stage.
+
+Stage 3: Clearing and Collecting  
+In the final stage, the player must first clear the screen of random dots by clicking on them. Once cleared, the focus shifts to collecting bugs that appear on the screen. The player must move the spider to gather a total of 20 bugs to complete the stage. This stage represents persistence and effort in reaching the goal.
+
+Reflection：
+All the visuals in Grown are illustrated by me, and I really enjoyed creating each element. Designing the scenes and characters allowed me to bring my ideas to life visually, adding a personal touch to every part of the game. This process was both fun and fulfilling, as it gave me a chance to combine my love for art with coding.Creating Grown is a way for me to reflect my own journey of overcoming challenges and growing stronger. Each stage of the game represents a phase of my personal growth: dodging toxic drops shows the resilience needed to avoid setbacks, jumping over obstacles symbolizes the courage to face challenges head-on, and collecting bugs highlights the focus and persistence required to achieve my goals. The spider, small yet resilient, mirrors my own experiences of learning, adapting, and ultimately thriving through adversity. I hope players feel inspired as they guide the spider through each obstacle, seeing it as a journey of growth and strength, just like my own.
+In coding, I experimented with various programming concepts, such as creating classes for different game elements and implementing physics for realistic movement. For instance, I used a Gravity class to simulate the spider's jumping and falling in the second stage, allowing it to respond naturally to each jump and land smoothly. I also developed a Raindrop class with random positioning and speed to keep the poison droplets dynamic and unpredictable in the first stage. These classes helped me organize the code, making each element reusable and easier to manage as the game became more complex. Integrating these coding techniques not only brought the game to life but also deepened my understanding of how to structure and optimize code for interactive projects.
+
+Citaion: I used ChatGPT to help me troubleshoot coding errors, implement a continuous scrolling background and applyGravity().

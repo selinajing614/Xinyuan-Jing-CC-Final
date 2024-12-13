@@ -1,0 +1,26 @@
+Description of the Personal Habit I Tracked
+For this data portrait, I chose to track my sleep patterns over five consecutive days, focusing on three specific metrics: total sleep time, deep sleep duration, and my mental state upon waking (rated on a scale of 1-10). 
+
+Instruction for Viewers
+The flowers in my data portrait represent each day. Here’s how to interpret the visual:
+Stem Height: The height of the flower's stem corresponds to the total hours of sleep I got each night.
+Number of Petals: The more petals a flower has, the more deep sleep I experienced that night. Petals is based on my deep sleep duration.
+Flower Color: The color of the flower is based on my mental state in the morning, transitioning from pink (high mental state) to purple (low mental state).
+
+Design Process
+Data Collection I recorded:
+Saturday: Sleep Time: 10.83 hours, Deep Sleep: 6.28 hours, Mental State: 8
+Sunday: Sleep Time: 6.23 hours, Deep Sleep: 3.3 hours, Mental State: 3
+Monday: Sleep Time: 8.37 hours, Deep Sleep: 2.13 hours, Mental State: 6
+Tuesday: Sleep Time: 7.05 hours, Deep Sleep: 1.62 hours, Mental State: 4
+Wednesday: Sleep Time: 5.75 hours, Deep Sleep: 1.2 hours, Mental State: 1
+Sketches and Prototypes: I began by sketching flowers with varying stem heights and petal numbers to reflect sleep data. I envisioned the background as a progression from night to day. 
+Coding and Animation: I animating the flowers' growth in sync with the sun rising and the moon falling. I adjusted the growth rate of each flower based on my mental state data, which created a dynamic link between the flowers and the background transition.
+
+Reflection
+What I Learned About Myself
+Through this self-tracking process, I gained insight into how irregular sleep patterns directly affect my mental state. The days with less sleep and less deep sleep resulted in visibly smaller and more poorly colored flowers. This connection helped me understand that poor mental states were often linked to lower deep sleep, not just total sleep time.
+
+What Was Gained/Lost Through Data Visualization
+Gained: By visualizing my data as flowers, I could immediately see patterns in my sleep behavior. The metaphor of flowers growing as I rest gave me an intuitive understanding of how important deep sleep and sleep duration are for my mental recovery. The transition from night to day provided a visual narrative for the progression of my well-being. 
+Lost: The abstract representation might obscure the raw numbers behind the data. While visually appealing, the symbolic nature of flowers and background changes may oversimplify the nuances of the data, such as specific fluctuations in sleep efficiency that are not visible in the portrait.

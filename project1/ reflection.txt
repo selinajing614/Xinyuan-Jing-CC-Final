@@ -1,0 +1,18 @@
+Your name
+Xinyuan jing
+
+Your partner’s name
+Amna
+
+The language your partner used to describe the image
+My object is a pair of wireless earphones that are blueish grey in colour. They are from one plus company, the shape of the box is a rectangle but the edges are curved. The earphones are in an'P' shape and the inside speaker area is dark grey. The logo of the company is at the bottom centre of the box
+
+Your interpretation of the image
+I chose to draw the earpods and the earpod case separately because my partner described the shape of the earpods. I used a shape without strokes to make the picture appear more unified. Then, I used code to draw the earpods and the earpod case on the cat's paw because her earpods were hidden by the cat.
+
+The depiction of the image using code 
+This was my first time using code. I found it a bit challenging, but it was interesting to explore. When rotating the shapes, I used push() and pop() to limit the rotation to specific shapes without affecting the others.
+
+
+The differences in interpretation at all stages of the assignment
+I initially had difficulty rotating my earpods because I set the rotation angle incorrectly. I used radians instead of degrees. However, I eventually adjusted the earpods to the desired angle.
